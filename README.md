@@ -35,3 +35,6 @@ HTML / JavaScript / Chart.js — standalone offline dashboards, no server requir
 ## Context
 
 Built as a consulting engagement. The store had no analytics infrastructure — data lived in Excel exports. The goal was to build something the manager could actually use, not something that looked impressive in a notebook.
+---
+## License
+MIT — free to use with attribution.
