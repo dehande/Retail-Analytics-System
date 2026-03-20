@@ -1,0 +1,8 @@
+datasets/
+*.csv
+transactions_features*
+external_data*
+bonus_dashboard*
+__pycache__/
+*.pyc
+.DS_Store
